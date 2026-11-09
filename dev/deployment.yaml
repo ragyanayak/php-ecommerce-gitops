@@ -29,7 +29,7 @@ spec:
 
         - name: php-ecommerce
 
-          image: ragyanayak/php-ecommerce:1
+          image: ragyanayak/php-ecommerce:9
 
           imagePullPolicy: Always
 
